@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is the project of EECS 510: Social Media Mining
 
 You can use the [editor on GitHub](https://github.com/Incomplete95/Social-Media-Mining-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
